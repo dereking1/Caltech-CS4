@@ -1,0 +1,9 @@
+2023-03-11T21:46:12+00:00 Dereks-MacBook-Pro.local#02 I: Start test all_tests:1:compare tests.
+2023-03-11T21:46:12+00:00 Dereks-MacBook-Pro.local#02 I: Test all_tests:1:compare tests is successful.
+2023-03-11T21:46:12+00:00 Dereks-MacBook-Pro.local#02 I: End test all_tests:1:compare tests.
+2023-03-11T21:46:12+00:00 Dereks-MacBook-Pro.local#02 I: Start test all_tests:3:add tests.
+2023-03-11T21:46:12+00:00 Dereks-MacBook-Pro.local#02 I: Test all_tests:3:add tests is successful.
+2023-03-11T21:46:12+00:00 Dereks-MacBook-Pro.local#02 I: End test all_tests:3:add tests.
+2023-03-11T21:46:12+00:00 Dereks-MacBook-Pro.local#02 I: Start test all_tests:5:make_move tests.
+2023-03-11T21:46:12+00:00 Dereks-MacBook-Pro.local#02 I: Test all_tests:5:make_move tests is successful.
+2023-03-11T21:46:12+00:00 Dereks-MacBook-Pro.local#02 I: End test all_tests:5:make_move tests.
