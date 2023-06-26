@@ -1,0 +1,21 @@
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: Start test all:0:make_point/get_coords.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: Test all:0:make_point/get_coords is successful.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: End test all:0:make_point/get_coords.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: Start test all:2:segment_length.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: Test all:2:segment_length is successful.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: End test all:2:segment_length.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: Start test all:4:make_rectangle.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: Test all:4:make_rectangle is successful.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: End test all:4:make_rectangle.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: Start test all:6:integer pairs.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: Test all:6:integer pairs is successful.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: End test all:6:integer pairs.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: Start test all:8:unary integers 2.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: Test all:8:unary integers 2 is successful.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: End test all:8:unary integers 2.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: Start test all:12:square_tree''.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: Test all:12:square_tree'' is successful.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: End test all:12:square_tree''.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: Start test all:14:derivative.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: Test all:14:derivative is successful.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#01 I: End test all:14:derivative.

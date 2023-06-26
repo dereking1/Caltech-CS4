@@ -1,0 +1,24 @@
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: Start test all:0:fast_expt.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: Test all:0:fast_expt is successful.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: End test all:0:fast_expt.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: Start test all:2:fast_mult.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: Test all:2:fast_mult is successful.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: End test all:2:fast_mult.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: Start test all:4:isum.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: Test all:4:isum is successful.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: End test all:4:isum.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: Start test all:6:factorial_rec.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: Test all:6:factorial_rec is successful.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: End test all:6:factorial_rec.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: Start test all:9:pi_approx.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: Test all:9:pi_approx is successful.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: End test all:9:pi_approx.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: Start test all:11:product.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: Test all:11:product is successful.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: End test all:11:product.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: Start test all:12:compose.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: Test all:12:compose is successful.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: End test all:12:compose.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: Start test all:15:smallest_prime_factor.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: Test all:15:smallest_prime_factor is successful.
+2023-01-26T22:34:26+00:00 Dereks-MacBook-Pro.local#01 I: End test all:15:smallest_prime_factor.

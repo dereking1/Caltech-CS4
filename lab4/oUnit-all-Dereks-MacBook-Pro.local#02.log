@@ -1,0 +1,24 @@
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: Start test all:1:make_segment/get_points.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: Test all:1:make_segment/get_points is successful.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: End test all:1:make_segment/get_points.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: Start test all:3:midpoint_segment.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: Test all:3:midpoint_segment is successful.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: End test all:3:midpoint_segment.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: Start test all:5:make_rectangle2.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: Test all:5:make_rectangle2 is successful.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: End test all:5:make_rectangle2.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: Start test all:7:unary integers.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: Test all:7:unary integers is successful.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: End test all:7:unary integers.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: Start test all:9:is_balanced.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: Test all:9:is_balanced is successful.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: End test all:9:is_balanced.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: Start test all:10:is_balanced'.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: Test all:10:is_balanced' is successful.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: End test all:10:is_balanced'.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: Start test all:11:square_tree.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: Test all:11:square_tree is successful.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: End test all:11:square_tree.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: Start test all:13:simplify.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: Test all:13:simplify is successful.
+2023-02-10T03:27:46+00:00 Dereks-MacBook-Pro.local#02 I: End test all:13:simplify.

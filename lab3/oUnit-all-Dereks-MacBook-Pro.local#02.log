@@ -1,0 +1,21 @@
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: Start test all:1:reverse.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: Test all:1:reverse is successful.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: End test all:1:reverse.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: Start test all:3:square_list2.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: Test all:3:square_list2 is successful.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: End test all:3:square_list2.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: Start test all:5:power_of_two_list.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: Test all:5:power_of_two_list is successful.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: End test all:5:power_of_two_list.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: Start test all:7:deep_reverse.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: Test all:7:deep_reverse is successful.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: End test all:7:deep_reverse.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: Start test all:9:quicksort.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: Test all:9:quicksort is successful.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: End test all:9:quicksort.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: Start test all:11:subsets.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: Test all:11:subsets is successful.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: End test all:11:subsets.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: Start test all:13:accumulate_n.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: Test all:13:accumulate_n is successful.
+2023-02-03T05:25:42+00:00 Dereks-MacBook-Pro.local#02 I: End test all:13:accumulate_n.
